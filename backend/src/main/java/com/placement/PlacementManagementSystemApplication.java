@@ -8,7 +8,7 @@ public class PlacementManagementSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PlacementManagementSystemApplication.class, args);
-		System.out.println("Hello System !, finally you are overriding haha ! ");
+		System.out.println("Hello System !");
 	}
 
 }
